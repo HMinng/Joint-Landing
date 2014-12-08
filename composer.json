@@ -1,0 +1,20 @@
+{
+    "name": "Joint-Landing",
+    
+    "authors": [
+        {
+            "name": "heming",
+            "email": "jackhm18@gmail.com"
+        }
+    ],
+    
+  	"repositories" : [ 
+		{"type" : "composer", "url" : "https://packagist.org/"}
+  	],
+  
+    "autoload": {
+        "classmap" : [
+        	"src/"
+        ]
+    }
+}
